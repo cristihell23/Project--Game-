@@ -475,3 +475,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.11-21.39.14:054][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
 [2019.10.11-21.39.14:054][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
 [2019.10.11-21.39.14:054][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.11-21.39.20:299][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.11-21.39.20:326][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.11-21.39.20:776][  0]SourceControl: Source control is disabled
+[2019.10.11-21.39.20:777][  0]SourceControl: Source control is disabled
+[2019.10.11-21.39.20:810][  0]SourceControl: Source control is disabled
+[2019.10.11-21.39.20:832][  0]SourceControl: Source control is disabled
+[2019.10.11-21.39.20:902][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.11-21.39.20:903][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.11-21.39.21:745][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.11-21.39.22:309][  0]LogOcInput: OculusInput pre-init called
+[2019.10.11-21.39.22:360][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.11-21.39.22:360][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.11-21.39.22:632][  0]LogEngine: Initializing Engine...
+[2019.10.11-21.39.22:635][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.11-21.39.22:638][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.10.11-21.39.23:037][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.11-21.39.23:121][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.11-21.39.23:156][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.11-21.39.23:201][  0]LogInit: FAudioDevice initialized.
+[2019.10.11-21.39.23:203][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.11-21.39.23:420][  0]LogDerivedDataCache: Saved boot cache 0.22s 73MB C:/Users/Cristian_H/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.11-21.39.23:434][  0]LogInit: Texture streaming: Enabled
+[2019.10.11-21.39.23:542][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.11-21.39.23:861][  0]LogInit: Transaction tracking system initialized
+[2019.10.11-21.39.24:048][  0]BlueprintLog: New page: Editor Load
+[2019.10.11-21.39.24:581][  0]LocalizationService: Localization service is disabled
+[2019.10.11-21.39.24:928][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2019.10.11-21.39.24:928][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2019.10.11-21.39.24:929][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.10.11-21.39.25:050][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.11-21.39.25:052][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.11-21.39.25:377][  0]LogFileCache: Scanning file cache for directory 'D:/UE4 Proj/ActualGame/Project--Game-/Content/' took 0.01s
+[2019.10.11-21.39.25:377][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.11-21.39.25:378][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.11-21.39.27:109][  0]SourceControl: Source control is disabled
+[2019.10.11-21.39.27:110][  0]Cmd: MAP LOAD FILE="../../../../UE4 Proj/ActualGame/Project--Game-/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.11-21.39.27:117][  0]LightingResults: New page: Lighting Build
+[2019.10.11-21.39.27:127][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.11-21.39.27:131][  0]MapCheck: New page: Map Check
+[2019.10.11-21.39.27:131][  0]LightingResults: New page: Lighting Build
+[2019.10.11-21.39.27:180][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.11-21.39.27:662][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.11-21.39.27:714][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.11-21.39.27:759][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.10.11-21.39.27:759][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.11-21.39.27:760][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.349ms to complete.
+[2019.10.11-21.39.27:760][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.651
+[2019.10.11-21.39.27:976][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-21.39.27:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-21.39.28:001][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-21.39.28:012][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.11-21.39.28:051][  0]LogCollectionManager: Loaded 0 collections in 0.002501 seconds
+[2019.10.11-21.39.28:094][  0]LogFileCache: Scanning file cache for directory 'D:/UE4 Proj/ActualGame/Project--Game-/Saved/Collections/' took 0.00s
+[2019.10.11-21.39.28:094][  0]LogFileCache: Scanning file cache for directory 'D:/UE4 Proj/ActualGame/Project--Game-/Content/Developers/CristianH/Collections/' took 0.00s
+[2019.10.11-21.39.28:094][  0]LogFileCache: Scanning file cache for directory 'D:/UE4 Proj/ActualGame/Project--Game-/Content/Collections/' took 0.00s
+[2019.10.11-21.39.28:094][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.10.11-21.39.28:110][  0]LogContentBrowser: Native class hierarchy populated in 0.0135 seconds. Added 2863 classes and 680 folders.
+[2019.10.11-21.39.28:135][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.10.11-21.39.28:609][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.11-21.39.28:639][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.11-21.39.28:748][  0]LogSlate: Took 0.011339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.11-21.39.28:763][  0]LogSlate: Took 0.009943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.11-21.39.28:783][  0]LogSlate: Took 0.009475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.11-21.39.29:012][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.11-21.39.29:406][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.11-21.39.29:406][  0]LogLoad: (Engine Initialization) Total time: 33.10 seconds
+[2019.10.11-21.39.29:406][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.11-21.39.29:496][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.11-21.39.29:551][  0]LogSlate: Took 0.007433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.11-21.39.29:605][  1]LogAssetRegistry: Asset discovery search completed in 18.1662 seconds
+[2019.10.11-21.39.29:612][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000208 seconds (found 0 objects)
+[2019.10.11-21.39.29:613][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000337 seconds (updated 0 objects)
