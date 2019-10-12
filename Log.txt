@@ -1,3 +1,5 @@
 Creating Game 11/10/2019
 
 Switch Target F Key / Health Bar / Coin Score - Cristian 11/10/2019
+
+SwapCircle Added Fkey Removed / Fixed Health Bar / Heal Added - Cristian 12/10/2019
